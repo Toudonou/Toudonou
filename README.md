@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Toudonou</h1>
+<h1 align="center">Hi 👋, I'm Toudonou</h1>
  
 - 👀 I’m interested in game programming (unreal engine, godot engine unity 3d), mobile development, ai, cybersecurity.
 - 🌱 I’m currently learning **mobile development**
