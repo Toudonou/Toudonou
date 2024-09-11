@@ -27,14 +27,11 @@
   </a>
 </div>
 <br/>
- <hr/>
- 
+<br/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,python,js,nodejs,express,laravel" />
     <img src="https://skillicons.dev/icons?i=clion,vscode,godot,idea,neovim,sublime,rider" /><br>
 </div>
-
-<br/>
-<hr/>
