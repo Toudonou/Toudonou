@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
-<h3 align="left">A passionate dev student from Benin <a href="https://www.flaticon.com/free-icons/benin" title="benin icons">Benin icons created by iconset.co - Flaticon</a></h3>
+<h3 align="left">A passionate dev student from Benin</h3>
 
 <div align="left">
  
- 🔭 I am currently studying at **EILCO in <a href="https://www.flaticon.com/free-icons/france" title="france icons">France icons created by Freepik - Flaticon</a>**
+ 🔭 I am currently studying at **EILCO**
  
  🌱 I’m currently learning **ML/AI**
 
